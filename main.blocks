@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".(X:AZAmG[5IDhf0:yK(" x="0" y="0"/><block type="device_forever" id="1Kl!ZT94lD.|fN)gDOE0" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".(X:AZAmG[5IDhf0:yK(" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="d*yO7w[{l2O!j#]@}HFw"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_forever" id="1Kl!ZT94lD.|fN)gDOE0" x="205" y="0"/></xml>
